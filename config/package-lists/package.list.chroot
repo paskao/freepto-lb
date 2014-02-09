@@ -69,3 +69,7 @@ mat
 
 # Local Wiki
 zim
+
+# Libs
+python-pyudev
+python-parted
