@@ -13,6 +13,7 @@ gksu
 btrfs-tools
 ca-certificates
 ntp
+gnome-packagekit
 
 # XFCE4
 task-laptop
