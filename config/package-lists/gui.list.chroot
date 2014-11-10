@@ -12,7 +12,7 @@ libreoffice-impress
 
 # Multimedia
 deb-multimedia-keyring
-#w32codecs
+w64codecs
 libdvdcss2
 vlc
 audacity
