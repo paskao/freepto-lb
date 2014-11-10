@@ -1,5 +1,5 @@
 linux-image-amd64
-linux-image-486
+#linux-image-486
 
 # SO
 aptitude
