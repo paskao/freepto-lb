@@ -16,6 +16,7 @@ ntp
 haveged
 laptop-mode-tools
 console-data
+plymouth
 
 # X system taken from x.list.chroot
 # main GUI software taken from gui.list.chroot
