@@ -9,8 +9,8 @@
 	url = https://github.com/avana-bbs/freepto-graphics
 [submodule "pkgs/freepto-usb-utils"]
 	path = pkgs/freepto-usb-utils
-	url = https://github.com/avana-bbs/freepto-usb-utils
-	branch = pask
+	url = https://github.com/paskao/freepto-usb-utils
+	branch = popupifnotfound
 [submodule "pkgs/tortp_stem"]
 	path = pkgs/tortp_stem
 	url = https://github.com/avana-bbs/stem-tortp
